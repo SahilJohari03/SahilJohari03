@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiljohari03&label=Profile%20views&color=0e75b6&style=flat" alt="sahiljohari03" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Cloud Computing and AWS**
 
 - 📫 How to reach me **sahiljohari189@gmail.com**
 
